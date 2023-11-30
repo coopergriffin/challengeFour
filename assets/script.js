@@ -23,9 +23,9 @@ const questions = [
         correctAnswer: "B" // The correct answer corresponds to the index of the correct option (0 for A, 1 for B, 2 for C)
     }, 
     {
-        question: "What is the capital of Canada?",
-        options: ["A. Toronto", "B. Ottawa", "C. Vancouver"],
-        correctAnswer: "B" // The correct answer corresponds to the index of the correct option (0 for A, 1 for B, 2 for C)
+        question: "What is the main programming language of the web?",
+        options: ["A. Javascript", "B. French", "C. Latin"],
+        correctAnswer: "A" // The correct answer corresponds to the index of the correct option (0 for A, 1 for B, 2 for C)
     },
     {
         question: "What is the capital of Canada?",
